@@ -5,3 +5,5 @@ hahahaha
 这是vscode里面的测试
 
 is yingwen
+
+解决中文乱码问题
